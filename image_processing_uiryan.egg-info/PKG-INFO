@@ -1,3 +1,11 @@
+Metadata-Version: 2.1
+Name: image_processing_uiryan
+Version: 0.0.1
+Summary: image Processing Package using Skimage
+Home-page: https://github.com/uiryam/image-processing-package
+Author: I'm using this code as a trainee under Karine. Uiryan
+Description-Content-Type: text/markdown
+
 # image_processing_uiryan
 
 Description. 
